@@ -34,18 +34,23 @@ The assistant successfully identified a critical strategic correlation:
 
 ### 1. Prerequisites
 Ensure you have [Ollama](https://ollama.ai/) installed and the `llama3` model downloaded:
-```bash
+```bash ```
+```
 ollama pull llama3
-
+```
 ### 2. Setup
 Clone the repository and install dependencies:
-git clone [https://github.com/alandersonjs/oil-gas-financial-rag.git](https://github.com/alandersonjs/oil-gas-financial-rag.git)
+```
+git clone [https://github.com/Alandersonjs/oil-gas-financial-rag.git](https://github.com/Alandersonjs/oil-gas-financial-rag.git)
 cd oil-gas-financial-rag
 pip install -r requirements.txt
+```
 
 ### 3. Execution
 Place your PDF files in the ./data/relatorios_petrobras directory and run:
+```
 python src/app.py
+```
 
 # 📄 License
 This project is licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
