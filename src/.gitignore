@@ -1,12 +1,6 @@
 chroma_db/
 __pycache__/
 *.pdf
-# Ambientes Virtuais
 .venv/
 venv/
-env/
-ENV/
-
-# Cache do Python
-__pycache__/
 *.pyc
