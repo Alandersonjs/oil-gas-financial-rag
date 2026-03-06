@@ -62,3 +62,5 @@ Non-Commercial
 You may not use the material for commercial purposes. This includes any use intended for or directed toward commercial advantage or private monetary compensation.
 
 Full legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+see the [LICENSE.md](LICENSE.md) file for details.
